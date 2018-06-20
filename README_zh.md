@@ -84,6 +84,7 @@
 ## 版权
 
 代码内容采用 [GPL 许可](http://www.gnu.org/licenses/gpl.html)
+
 代码内容采用 [Mozilla 许可](https://www.mozilla.org/en-US/MPL/)
 
 Copyright © Nino 2018.
