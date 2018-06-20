@@ -20,8 +20,7 @@
 </br>
 
 ### src 
-
-src 是项目的源代码部分，提供了 NodeConverter 和 PageRank 的 Java 实现。
+**src 是项目的源代码部分，提供了 NodeConverter 和 PageRank 的 Java 实现。**
 
 * NodeConverter
 提供了 NodeConverter 部分的 MapReduce 实现，把数据集节点指向关系的格式转换。
@@ -31,8 +30,7 @@ src 是项目的源代码部分，提供了 NodeConverter 和 PageRank 的 Java 
 
 
 ### bin
-
-bin 是项目的可运行文件部分，提供了 NodeConverter 和 PageRank 的 Java 的可运行文件。
+**bin 是项目的可运行文件部分，提供了 NodeConverter 和 PageRank 的 Java 的可运行文件。**
 
 * NodeConverter
 提供了 NodeConverter 部分的 MapReduce 可运行文件并打包，把数据集节点指向关系的格式转换。
@@ -42,7 +40,7 @@ bin 是项目的可运行文件部分，提供了 NodeConverter 和 PageRank 的
 
 
 ### resource
-提供了项目可用的资源文件。
+**提供了项目可用的资源文件。**
 
 * dataset
 提供了项目用到的数据集。
@@ -67,11 +65,11 @@ bin 是项目的可运行文件部分，提供了 NodeConverter 和 PageRank 的
 
 
 ### README-zh.md
-中文版 README。
+**中文版 README。**
 
 
 ### README.md
-英文版 README。
+**英文版 README。**
 
 </br>
 
