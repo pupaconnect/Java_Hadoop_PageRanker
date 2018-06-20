@@ -8,7 +8,7 @@ README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/m
 
 [TOC]
 
-## Introductino
+## Introduction
 
 >PageRanker is an open source implementation of Page Rank Algorithm by Larry Page based on [Hadoop](http://hadoop.apache.org) MapReduce. Showing splendid performance while dealing with huge amounts of data, the project given results of PageRank values for numerous net nodes. This algorithm can be applied to many aspects, such as ranking of web pages for search engines, evaluation of hot spots, finding network nodes relation and so on. I used Java to compete this onerous task and [Epinions Social Dataset](https://snap.stanford.edu/data/soc-Epinions1.html) was included as my test dataset. The theoretical support referred to the famous article [*The PageRank Citation Ranking︎ Bringing Order to the Web*](http://202.116.81.74/cache/5/03/ilpubs.stanford.edu/bf0bd3cdc413c81dc4853ddffe4de51f/1999-66.pdf) by Larry Page. Matlab implementation of this algorithm can be referred to the *PageRank* part of another GitHub repository of mine[Matlab_NumericalComputing_Experiments](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments).
 
