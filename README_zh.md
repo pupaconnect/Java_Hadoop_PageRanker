@@ -21,50 +21,55 @@
 ### src 
 src 是项目的源代码部分，提供了 NodeConverter 和 PageRank 的 Java 实现。
 
-#### NodeConverter
+* NodeConverter
 提供了 NodeConverter 部分的 MapReduce 实现，把数据集节点指向关系的格式转换。
 
-#### PageRank
+* PageRank
 提供了 PageRank 部分的 MapReduce 实现，对网络节点的 PageRank 值进行了排序。
+
 
 ### bin
 bin 是项目的可运行文件部分，提供了 NodeConverter 和 PageRank 的 Java 的可运行文件。
 
-#### NodeConverter
+* NodeConverter
 提供了 NodeConverter 部分的 MapReduce 可运行文件并打包，把数据集节点指向关系的格式转换。
 
-#### PageRank
+* PageRank
 提供了 PageRank 部分的 MapReduce 可运行文件并打包，对网络节点的 PageRank 值进行了排序。
+
 
 ### resource
 提供了项目可用的资源文件。
 
-#### dataset
+* dataset
 提供了项目用到的数据集。
 
-#### downloads
+* downloads
 提供了项目用到的 jdk 压缩包、Hadoop 压缩包、Xshell 运行文件。
 
-#### labs
+* labs
 提供了项目参考的 Easyhpc 网站的实验。
 
-#### logo
+* logo
 项目 LOGO。
 
-#### paper
+* paper
 项目参考的论文，为算法提供理论支撑。
 
-#### vm
+* vm
 已经配置好的环境，方便之后的运行工作。
 
-### report
+* report
 项目的实验报告，课程设计。
+
 
 ### README-zh.md
 中文版 README。
 
+
 ### README.md
 英文版 README。
+
 </br>
 
 ## 用法
