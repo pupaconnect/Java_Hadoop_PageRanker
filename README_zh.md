@@ -1,6 +1,6 @@
 # PageRanker
 
-![LOGO](/Users/nino/Documents/GitHub/Java_Hadoop_PageRank/resource/logo/PageRanker.png)
+![LOGO](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png)
 
 ## 索引
 
