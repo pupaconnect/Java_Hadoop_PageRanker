@@ -47,7 +47,7 @@
 * [dataset](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/dataset)
 提供了项目用到的数据集。
 
-* [downloads]()
+* [downloads](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/downloads)
 提供了项目用到的 jdk 压缩包、Hadoop 压缩包、Xshell 运行文件。
 
 * [labs](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/labs)
@@ -59,7 +59,7 @@
 * [paper](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/paper)
 项目参考的 [*The PageRank Citation Ranking︎ Bringing Order to the Web*](http://202.116.81.74/cache/5/03/ilpubs.stanford.edu/bf0bd3cdc413c81dc4853ddffe4de51f/1999-66.pdf)论⽂，为算法提供理论支撑。
 
-* [vm]()
+* [vm](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/vm)
 已经配置好的环境，方便之后的运行工作。
 
 
