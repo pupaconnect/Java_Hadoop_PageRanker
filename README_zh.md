@@ -1,5 +1,7 @@
 # PageRanker
 
+README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md)
+
 ![LOGO](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png)
 
 ## 索引
@@ -51,7 +53,7 @@
 提供了项目用到的 jdk 压缩包、Hadoop 压缩包、Xshell 运行文件。
 
 * [labs](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/labs)
-提供了项目参考的 Easyhpc 网站的实验。
+提供了项目参考的 [Easyhpc](http://www.easyhpc.org) 网站的实验。
 
 * [logo](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/logo)
 项目 [LOGO](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png)。
@@ -74,9 +76,9 @@
 
 ## 用法
 
-1.您可以在 /resource/dataset/ 中找到实验用到的数据集，拷贝 /src/* 下的相关代码在您已经配置好的 Hadoop 和 Java 的云平台上进行测试。
+1.您可以在 [/resource/dataset/](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/dataset) 中找到实验用到的数据集，拷贝 [/src/*](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/src) 下的相关代码在您已经配置好的 Hadoop 和 Java 的云平台上进行测试。
 
-2.您也可以在 /resource/vm/* 下找到笔者已经配置好的虚拟机节点进行测试。把虚拟机复制到您的 VM Workstation 12 pro 的目录下，打开每个节点的 *.vmx 文件，此时应该可以正常运行云实例。每个节点的用户名和密码分别是 Hadoop 和 1998，进行初始化操作 source setenv.sh 和 start-hdfs、start—yarn 操作（详见实验报告的实验步骤）。因为代码 *.java 和运行文件 *.class 和 .jar 文件已经被笔者利用 lrszs 文件传输助手传至 master 云实例下，所以无需再次传输。此后，您就可以 MapReduce NodeConverter.jar 和 PageRank.jar。
+2.您也可以在 [/resource/vm/*](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/resource/vm) 下找到笔者已经配置好的虚拟机节点进行测试。把虚拟机复制到您的 VM Workstation 12 pro 的目录下，打开每个节点的 *.vmx 文件，此时应该可以正常运行云实例。每个节点的用户名和密码分别是 Hadoop 和 1998，进行初始化操作 source setenv.sh 和 start-hdfs、start—yarn 操作（详见[实验报告](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/tree/master/report)的实验步骤）。因为代码 *.java 和运行文件 *.class 和 .jar 文件已经被笔者利用 lrszs 文件传输助手传至 master 云实例下，所以无需再次传输。此后，您就可以 MapReduce NodeConverter.jar 和 PageRank.jar。
 
 **该项目部署配置环境比较复杂，所以笔者提供了虚拟机云实例的拷贝。**
 
@@ -86,13 +88,13 @@
 
 代码内容采用 [Mozilla 许可](https://www.mozilla.org/en-US/MPL/)
 
-Copyright © Nino 2018.
+代码版权归作者 Nino Lau 所有。
 
 
 ## 特别鸣谢
 
 * 感谢 [Zicong Hong](https://github.com/hongzicong) 给笔者提供了在 Hadoop 分布式编程框架上编写 PageRank 的思路参考。
 * 感谢 Weig Wu 半年来提供的技术辅导。
-* Sherry Fan 对我代码工作和学习生活的一贯支持。
+* Sherry Fan 女士，不辞劳苦，在背后默默对我代码工作和学习生活一贯的支持。
 
 
