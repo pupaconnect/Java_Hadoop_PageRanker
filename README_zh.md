@@ -4,11 +4,11 @@
 
 ## 索引
 
->[TOC]
+[TOC]
 
 ## 简介
 
-PageRanker 是一个开源的、基于 [Hadoop](http://hadoop.apache.org) MapReduce 的 PageRank 算法实现项目。该项目可以处理海量页面的排序，并以特殊格式给出。这种算法可以应用到很多方面，如搜索引擎对网页的排序、评估时事热点发现网络节点之间的关系等。此项目用 Java 语言编写，数据集利用 [Epinions 社交数据集](https://snap.stanford.edu/data/soc-Epinions1.html)，参考了拉⾥佩琦先⽣生著名的 [*The PageRank Citation Ranking︎ Bringing Order to the Web*](http://202.116.81.74/cache/5/03/ilpubs.stanford.edu/bf0bd3cdc413c81dc4853ddffe4de51f/1999-66.pdf)论⽂。PageRank 算法的 Matlab 实现可以参考我的另一个 GitHub 仓库[Matlab_NumericalComputing_Experiments](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments)的 PageRank 部分。
+>PageRanker 是一个开源的、基于 [Hadoop](http://hadoop.apache.org) MapReduce 的 PageRank 算法实现项目。该项目可以处理海量页面的排序，并以特殊格式给出。这种算法可以应用到很多方面，如搜索引擎对网页的排序、评估时事热点发现网络节点之间的关系等。此项目用 Java 语言编写，数据集利用 [Epinions 社交数据集](https://snap.stanford.edu/data/soc-Epinions1.html)，参考了拉⾥佩琦先⽣生著名的 [*The PageRank Citation Ranking︎ Bringing Order to the Web*](http://202.116.81.74/cache/5/03/ilpubs.stanford.edu/bf0bd3cdc413c81dc4853ddffe4de51f/1999-66.pdf)论⽂。PageRank 算法的 Matlab 实现可以参考我的另一个 GitHub 仓库[Matlab_NumericalComputing_Experiments](https://github.com/LovelyBuggies/Matlab_NumericalComputing_Experiments)的 PageRank 部分。
 
 ## 功能
 
