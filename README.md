@@ -1,4 +1,4 @@
-# Java_CloudComputing_PageRank
+# Java_CloudComputing_PageRanker
 
 README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md)
 
