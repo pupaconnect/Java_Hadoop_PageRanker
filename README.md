@@ -7,19 +7,19 @@ README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/m
 
 ## Contents
 
-* [Contents]()
-* [Introduction]()
-* [Features]()
-* [Contains]()
-   * [src]()
-   * [bin]()
-   * [report]()
-   * [resource]()
-   * [README-zh.md]()
-   * [README.md]()
-* [Usage]()
-* [Copyright]()
-* [Thanks]()
+* [Contents](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#contents)
+* [Introduction](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#introduction)
+* [Features](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#features)
+* [Contains](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#contains)
+   * [src](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#src)
+   * [bin](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#bin)
+   * [report](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#report)
+   * [resource](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#resource)
+   * [README-zh.md](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#readme-zhmd)
+   * [README.md](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#readmemd)
+* [Usage](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#usage)
+* [Copyright](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#copyright)
+* [Thanks](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#thanks)
 
 
 ## Introduction
