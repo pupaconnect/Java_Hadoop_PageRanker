@@ -4,9 +4,9 @@ README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/m
 
 ![LOGO](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png)
 
-## Index
+## Contents
 
-[TOC]
+
 
 ## Introduction
 
