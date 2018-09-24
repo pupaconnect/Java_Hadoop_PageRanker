@@ -6,7 +6,19 @@ README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/m
 
 ## 目录
 
-
+* [目录](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#目录)
+* [简介](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#简介)
+* [功能](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#功能)
+* [项目](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#项目)
+   * [src](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#src)
+   * [bin](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#bin)
+   * [report](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#report)
+   * [resource](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#resource)
+   * [README-zh.md](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#readme-zhmd)
+   * [README.md](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#readmemd)
+* [用法](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#用法)
+* [版权](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#版权)
+* [特别鸣谢](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md#特别鸣谢)
 
 
 ## 简介
@@ -19,7 +31,7 @@ README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/m
 2. 海量数据的处理
 3. 关系型数据库系统的结果处理（挖个坑，未来实现）
 
-## 目录
+## 项目
 </br>
 
 ### src 
