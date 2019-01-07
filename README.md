@@ -5,6 +5,7 @@ README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/m
 ![LOGO](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png)
 
 
+
 ## Contents
 
 * [Contents](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md#contents)
