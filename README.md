@@ -1,7 +1,6 @@
-# Java_CloudComputing_PageRanker
-
-
 <p align="center">
+
+Page Ranker: Advance Tech to filter Your Pages
 <img src="https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png" alt="PageRanker" title="ScoreChain" length = "400" width="400"/><br/><br/>
 </p>
 
