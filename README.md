@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png" alt="PageRanker" title="ScoreChain" length = "400" width="400"/><br/>
-</p>
+  <img src="https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/resource/logo/PageRanker.png" alt="PageRanker" title="ScoreChain" length = "400" width="400"/><br/><br/>
 
-README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md)
+  README: [English](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README.md) | [中文](https://github.com/LovelyBuggies/Java_Hadoop_PageRanker/blob/master/README_zh.md)<br/><br/>
+
+</p>
 
 ## Contents
 
